@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="Name">Restaur\'app</string>
+    <string name="MsgWelcome">Regardez les resto pret de vous!</string>
+</resources>
